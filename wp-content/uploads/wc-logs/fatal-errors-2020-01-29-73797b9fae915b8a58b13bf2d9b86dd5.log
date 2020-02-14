@@ -1,0 +1,16 @@
+2020-01-29T15:04:54+00:00 CRITICAL Maximum execution time of 300 seconds exceeded en C:\xampp\htdocs\xampp\ebuycr\wp-includes\Requests\Transport\cURL.php en la línea 163
+
+2020-01-29T18:28:30+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\xampp\ebuycr\wp-includes\wp-db.php en la línea 2030
+
+2020-01-29T18:47:53+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\xampp\ebuycr\wp-includes\wp-db.php en la línea 2030
+
+2020-01-29T18:55:07+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\xampp\ebuycr\wp-includes\wp-db.php en la línea 2030
+
+2020-01-29T19:01:29+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\xampp\ebuycr\wp-includes\wp-db.php en la línea 2030
+
+2020-01-29T19:06:05+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\xampp\ebuycr\wp-includes\wp-db.php en la línea 2030
+
+2020-01-29T22:12:24+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\xampp\ebuycr\wp-includes\wp-db.php en la línea 2030
+
+2020-01-29T22:14:46+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\xampp\ebuycr\wp-includes\pomo\mo.php en la línea 323
+
